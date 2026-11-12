@@ -1,0 +1,8 @@
+Birinchi qator
+Ikkinchi qator
+Uchinchi qator
+Dasturlash qiziq
+C tili tez ishlaydi
+Xotirani bo'shatishni unutma
+fgets xavfsiz
+Oxirgi qator
